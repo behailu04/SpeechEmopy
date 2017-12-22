@@ -1,0 +1,3 @@
+LSTM with CTC model
+clases: Happy, Surprise, Sad, Neutral, Angry, Fear
+accuracy 53 % 

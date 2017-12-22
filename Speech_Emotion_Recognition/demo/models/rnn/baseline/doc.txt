@@ -1,0 +1,4 @@
+RNN baseline models
+class Happy, Sad, Neutral, Surprise, Angry, Fear
+Acuracy 53% 
+

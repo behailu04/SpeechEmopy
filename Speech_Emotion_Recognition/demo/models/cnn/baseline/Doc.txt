@@ -1,0 +1,3 @@
+CNN base line models
+class Happy, Sad, Neutral, Surprise, Fear, Angry
+Acuraccy 60 %
