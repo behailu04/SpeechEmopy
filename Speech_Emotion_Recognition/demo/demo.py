@@ -33,7 +33,7 @@ class App():
         self.CHUNK = 1024
         self.FORMAT = pyaudio.paInt16
         self.CHANNELS = 1
-        self.RATE = 44100
+        self.RATE = 16000
         self.p = pyaudio.PyAudio()
         self.interval = int((self.RATE / self.CHUNK * 5))
         self.isrecording = False
